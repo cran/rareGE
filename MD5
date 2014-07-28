@@ -1,0 +1,13 @@
+a79168e719015fd898126dc8eecf9059 *DESCRIPTION
+74c737445470cb56287eb303559e6799 *NAMESPACE
+5400be65334c4168c8060b5df7b02a0d *R/rareGE.R
+3549f71e7a16897fcebdaaf748396dde *data/rareGEgeno.rda
+842bf1504d83a265207b81fc8259172f *data/rareGEpheno.rda
+65d8c7dd00cdc800adc246b1d78ba45f *man/INT_FIX.Rd
+c97083bead7c620c1171e33b34d26138 *man/INT_RAN.Rd
+0c8f4233afde2c7379cd2d31ef094484 *man/JOINT.Rd
+7b9e28e7f0dd330ec2ca68841bcc69d3 *man/rareGE-package.Rd
+926d4d68f80255252b215b56c129cb22 *man/rareGE.Rd
+05f7b14d79f302107e221df41cb861e6 *man/rareGEgeno.Rd
+b9ead106f7d3bd0f69c579aa9ef51bfb *man/rareGEpheno.Rd
+7f2625c1f29b3d6ec965fb8dfa4b1f3c *man/wuweights.Rd

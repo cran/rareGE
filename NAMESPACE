@@ -1,0 +1,5 @@
+importFrom(MASS, ginv, mvrnorm, glmmPQL)
+importFrom(nlme, VarCorr, pdIdent)
+importFrom(survey, pchisqsum)
+
+export(INT_FIX, INT_RAN, JOINT, rareGE, wuweights)
